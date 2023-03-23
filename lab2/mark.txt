@@ -1,0 +1,4 @@
+the name of the testbenches should be parti_tb.sv where i is the number of the part
+DONE!
+#######################TOTAL_MARK##########################
+TOTAL_MARK: 0
